@@ -41,7 +41,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=muhakbarhamid21&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muhakbarhamid21&icon=10&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   
