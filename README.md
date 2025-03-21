@@ -41,7 +41,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=muhakbarhamid21&icon=10&color=6)](https://visitcount.itsvg.in)
+[![](hhttps://visitor-badge.laobi.icu/badge?page_id=muhakbarhamid21&icon=10&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   
