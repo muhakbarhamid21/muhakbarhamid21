@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhakbarhamid21&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" /><br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=muhakbarhamid21&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" /><br> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=muhakbarhamid21&theme=github_dark_dimmed&hide_border=false" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhakbarhamid21&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
