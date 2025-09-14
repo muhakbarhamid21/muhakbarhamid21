@@ -48,11 +48,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhakbarhamid21&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+<!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhakbarhamid21&theme=github_dark&no-frame=false&no-bg=false&margin-w=4" />
 </p>
+-->
 
 ---
 
